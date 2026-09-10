@@ -80,10 +80,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=webbiestech360&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=webbiestech360&theme=matrix&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="41%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbiestech360&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=webbiestech360&theme=matrix&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%" />
 
 </div>
 
@@ -93,7 +90,23 @@
 
 <img src="https://komarev.com/ghpvc/?username=webbiestech360&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" />
 
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/SECTION-CONTRIBUTION__SNAKE-00FF41?style=for-the-badge&labelColor=000000)
+
 <br><br>
+
+<img src="https://raw.githubusercontent.com/webbiestech360/webbiestech360/output/github-contribution-grid-snake.svg" width="95%" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer)
 
