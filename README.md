@@ -1,12 +1,17 @@
-<!-- MATRIX GREEN HEADER BANNER -->
+<!-- BIG MATRIX RAIN ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00FF66&strokeWidth=2&height=180&section=header&text=010101%20WEBBIES%20TECH%20360%20010101&fontSize=38&fontColor=00FF66&animation=twinkling&fontAlignY=45" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00FF66&center=true&vcenter=true&width=800&height=220&lines=010101010101010101010101;010101+WEBBIES+TECH+360+010101;101010101010101010101010;>[SYSTEM_ACCESS_GRANTED];010101+FULL+STACK+DEV+010101" alt="Matrix Header" />
 </p>
 
-<!-- MATRIX GREEN TYPING ANIMATION -->
+<!-- MATRIX FALLING CODE GIF BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00FF66&strokeWidth=3&height=220&section=header&text=WEBBIES%20TECH%20360&fontSize=55&fontColor=00FF66&animation=twinkling&fontAlignY=50" width="100%" />
+</p>
+
+<!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=650&lines=01001000+01000101+01001100+01001100+01001111;SYSTEM.INIT%3A+Full+Stack+Developer+%26+Automation+Expert;>[RUN]+Building+Digital+Bots+%26+Web+Architecture;>[ACCESS_GRANTED]+Welcome+to+WebbiesTech360" alt="Matrix Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=650&lines=01001000+01000101+01001100+01001100+01001111;SYSTEM.INIT%3A+Full+Stack+Developer+%26+Automation+Expert;>[RUN]+Building+Digital+Bots+%26+Web+Architecture;>[ACCESS_GRANTED]+Welcome+to+WebbiesTech360" alt="Matrix Typing SVG" />
   </a>
 </div>
 
