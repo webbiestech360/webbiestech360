@@ -5,19 +5,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-000000?style=flat-square&color=00FF66&labelColor=000000" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Designing-000000?style=flat-square&color=00FF66&labelColor=000000" />
-  <img src="https://img.shields.io/badge/AI%20Automation-000000?style=flat-square&color=00FF66&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Web%20%26%20Game%20Development-000000?style=flat-square&color=00FF66&labelColor=000000" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SEO%20%26%20Marketing-000000?style=flat-square&color=00FF66&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Social%20Media%20Marketing-000000?style=flat-square&color=00FF66&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Website%20Ranking-000000?style=flat-square&color=00FF66&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Testing%20%26%20Performance-000000?style=flat-square&color=00FF66&labelColor=000000" />
-</p>
 <div align="center">
 
 ![React](https://skillicons.dev/icons?i=react)
