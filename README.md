@@ -26,7 +26,6 @@
 <br>
 
 ![Supabase](https://skillicons.dev/icons?i=supabase)
-![Sanity](https://skillicons.dev/icons?i=sanity)
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
@@ -36,7 +35,7 @@
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" height="48" alt="Google AI Studio" title="Google AI Studio" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-ai-studio.png" width="48" height="48" alt="Google AI Studio" title="Google AI Studio" />
 
 </div>
 
