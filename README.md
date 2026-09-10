@@ -1,7 +1,7 @@
 <!-- SIMPLE BLACK BG + BOLD GREEN TYPING HEADER -->
 <p align="center">
   <a href="https://github.com/webbiestech360">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=00FF66&background=000000&center=true&vcenter=true&width=900&height=180&lines=WEBBIESTECH360;010101010101010101;FULL+STACK+DEVELOPER" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=00FF66&background=000000&center=true&vcenter=true&width=900&height=180&lines=WEBBIESTECH360;FULL+STACK+DEVELOPMENT;AI+AUTOMATION;WEB+GAME+DEVELOPMENT;UI+ANIMATIONS;SEO+MARKETING;WEBSITE+RANKING;TESTING+%26+PERFORMANCE+WORK" alt="Typing Header" />
   </a>
 </p>
 
