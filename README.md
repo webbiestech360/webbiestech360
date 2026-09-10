@@ -1,29 +1,34 @@
-<!-- HEADER BANNER ANIMATION -->
+<!-- MATRIX GREEN HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7000FF,100:FF007F&height=200&section=header&text=WEBBIES%20TECH%20360&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00FF66&strokeWidth=2&height=180&section=header&text=010101%20WEBBIES%20TECH%20360%20010101&fontSize=38&fontColor=00FF66&animation=twinkling&fontAlignY=45" width="100%" />
 </p>
 
-<!-- TYPING ANIMATION & INTRO -->
+<!-- MATRIX GREEN TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=⚡+Full-Stack+Architect+%26+Engineer;🛠️+Automation+%26+Bot+Developer;🚀+Building+Digital+Products+at+WebbiesTech360;💻+MERN+Stack+%26+Next.js+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=650&lines=01001000+01000101+01001100+01001100+01001111;SYSTEM.INIT%3A+Full+Stack+Developer+%26+Automation+Expert;>[RUN]+Building+Digital+Bots+%26+Web+Architecture;>[ACCESS_GRANTED]+Welcome+to+WebbiesTech360" alt="Matrix Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- PROFILE VISITOR COUNTER & BADGES -->
+<!-- MATRIX GREEN BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=webbiestech360&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/webbiestech360?label=FOLLOWERS&logo=github&style=for-the-badge&color=7000FF" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-FF007F?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=webbiestech360&label=SYSTEM_ACCESS_COUNT&color=00ff66&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/webbiestech360?label=NETWORK_NODES&logo=github&style=for-the-badge&color=003311&logoColor=00ff66" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE_0101-00ff66?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-### 🌌 ABOUT ME
-```system
-⚡ System.Config: Pasha (Founder @ WebbiesTech360)
-💻 Core Competency: Full-Stack Web Development, SaaS Automation, Scalable Systems
-🎨 Design Philosophy: Cyberpunk Dark Mode & Ultra-Clean Code Architecture
-🎯 Current Goal: Engineering Next-Gen Web Solutions & AI Automation Bots
+### 🟢 MATRIX_TERMINAL // ABOUT_ME
+
+```gcode
+> root@webbiestech360:~# cat profile.json
+{
+  "Developer": "Pasha",
+  "Role": "Full-Stack Engineer & Automation Specialist",
+  "Base": "WebbiesTech360",
+  "Specialization": ["Bot Development", "React/Next.js", "Node.js", "System Architecture"],
+  "Status": "Executing Code..."
+}
