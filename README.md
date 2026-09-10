@@ -1,13 +1,8 @@
-<!-- NATIVE HIGH-GLITCH NEON HEADER -->
-<h1 align="center">
-  <a href="https://github.com/webbiestech360">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&pause=500&color=00FF66&background=00000000&center=true&vcenter=true&width=900&height=120&lines=%E2%9A%A0%EF%B8%8F_SYSTEM_OVERRIDE_%E2%9A%A0%EF%B8%8F;%5B!%5D_WEBBIESTECH360_%5B!%5D;010101010101010101010101;%3E_ROOT_ACCESS_GRANTED" alt="Glitch Banner" />
-  </a>
-</h1>
-
-<!-- MATRIX GLITCH RAIN BANNER -->
+<!-- SIMPLE BLACK BG + BOLD GREEN TYPING HEADER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="180px" style="object-fit: cover; border-radius: 6px;" alt="Matrix Glitch Animation" />
+  <a href="https://github.com/webbiestech360">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=00FF66&background=000000&center=true&vcenter=true&width=900&height=180&lines=WEBBIESTECH360;010101010101010101;FULL+STACK+DEVELOPER" alt="Typing Header" />
+  </a>
 </p>
 
 <div align="center">
