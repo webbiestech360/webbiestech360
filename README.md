@@ -25,26 +25,26 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node](https://skillicons.dev/icons?i=nodejs)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JS](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Next](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+![Sanity](https://skillicons.dev/icons?i=sanity)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![ThreeJS](https://skillicons.dev/icons?i=threejs)
+![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Figma](https://skillicons.dev/icons?i=figma)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
-
-</div>
-
-<br>
-
-### `> ./connect --socials`
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/webbiestech360)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/webbiestech360)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:webbiestech360@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://yourportfolio.com)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 </div>
 
