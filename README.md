@@ -2,13 +2,8 @@
 
 <img src="./matrix-rain.svg" width="100%" alt="Matrix Rain"/>
 
-<br><br>
-
-![](https://img.shields.io/badge/SECTION-TECH__STACK-00FF41?style=for-the-badge&labelColor=000000)
-
 </div>
 
-**`> tech_stack/`**
 <div align="center">
 
 ![React](https://skillicons.dev/icons?i=react)
