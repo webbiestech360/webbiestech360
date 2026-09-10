@@ -1,7 +1,16 @@
-<!-- BLACK BANNER WITH GREEN TYPING TEXT -->
+<!-- EXTREME GLITCH NEON MATRIX BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=00FF66&background=000000&center=true&vcenter=true&width=900&height=200&lines=WEBBIESTECH360" alt="Webbiestech360" />
+  <img src="https://capsule-render.vercel.app/api?type=glitch&color=00FF66&height=220&section=header&text=WEBBIESTECH360&fontSize=65&fontColor=00FF66&animation=twinkling&fontAlignY=48" width="100%" alt="Glitch Banner" />
 </p>
+
+<!-- STRONG GLITCH SUBTITLE TYPING -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=800&color=00FF66&background=00000000&center=true&vcenter=true&width=700&lines=%3E%5B!%5D+SYSTEM_OVERRIDE_ACTIVE;0101010101010101010101010101;%3E_FULL_STACK_ARCHITECT_%26_DEV;SYSTEM_STATUS%3A_ROOT_ACCESS_GRANTED" alt="Glitch Subtitle" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
 
