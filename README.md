@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=160&section=header&text=SYSTEM.ACCESS_GRANTED&fontSize=30&fontColor=00FF41&fontAlignY=38&desc=root@github:~$%20whoami&descAlignY=58&descSize=15&animation=fadeIn)
-
 <img src="./matrix-rain.svg" width="100%" alt="Matrix Rain"/>
 
 <br><br>
