@@ -10,10 +10,10 @@
 
 ### `> whoami`
 ```bash
-> [Your Name]
-> Role: [e.g. Full-Stack Developer]
-> Location: [Your City, Country]
-> Status: [Currently building / Open to work / Learning X]
+> Pasha
+> Role: Full-Stack Developer | AI Automation Specialist | UI/UX Animation Dev | SEO & Digital Marketing
+> Company: Webbies Tech 360
+> Status: Building cool stuff with code + AI 🚀
 ```
 
 <br>
@@ -21,15 +21,18 @@
 ### `> ls tech_stack/`
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![JS](https://skillicons.dev/icons?i=js)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Express](https://skillicons.dev/icons?i=express)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node](https://skillicons.dev/icons?i=nodejs)
+![JS](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Next](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
-
-*(Replace icons above with your actual stack — full list: [skillicons.dev](https://skillicons.dev))*
+![Figma](https://skillicons.dev/icons?i=figma)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
 
 </div>
 
@@ -38,9 +41,9 @@
 ### `> ./connect --socials`
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/webbiestech360)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/webbiestech360)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:webbiestech360@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://yourportfolio.com)
 
 </div>
@@ -50,10 +53,10 @@
 ### `> cat stats.log`
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=matrix&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=webbiestech360&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=webbiestech360&theme=matrix&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbiestech360&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="50%" />
 
 </div>
 
@@ -62,7 +65,7 @@
 ### `> git log --contributions`
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=00FF41" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=webbiestech360&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=00FF41" width="90%" />
 
 </div>
 
