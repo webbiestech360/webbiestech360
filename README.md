@@ -4,30 +4,6 @@
 
 <br><br>
 
-![](https://img.shields.io/badge/SECTION-WHOAMI-00FF41?style=for-the-badge&labelColor=000000)
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  root@github ~ % whoami                                   ║
-╠══════════════════════════════════════════════════════════╣
-║  NAME     : Pasha                                          ║
-║  HANDLE   : @webbiestech360                                 ║
-║  ROLE     : Full-Stack Developer                            ║
-║             AI Automation Specialist                        ║
-║             Advanced UI/UX Animation Developer               ║
-║             SEO & Digital Marketing Professional              ║
-║  COMPANY  : Webbies Tech 360                                 ║
-║  STATUS   : Building intelligent, animated web experiences   ║
-║  CONTACT  : webbiestech360@gmail.com                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<div align="center">
-
 ![](https://img.shields.io/badge/SECTION-TECH__STACK-00FF41?style=for-the-badge&labelColor=000000)
 
 </div>
@@ -81,13 +57,5 @@
 <br><br>
 
 <img src="https://raw.githubusercontent.com/webbiestech360/webbiestech360/output/github-contribution-grid-snake.svg" width="95%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer)
 
 </div>
