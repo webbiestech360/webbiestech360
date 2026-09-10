@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Website%20Ranking-000000?style=flat-square&color=00FF66&labelColor=000000" />
   <img src="https://img.shields.io/badge/Testing%20%26%20Performance-000000?style=flat-square&color=00FF66&labelColor=000000" />
 </p>
-
 <div align="center">
 
 ![React](https://skillicons.dev/icons?i=react)
