@@ -1,16 +1,14 @@
-<!-- EXTREME GLITCH NEON MATRIX BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=00FF66&height=220&section=header&text=WEBBIESTECH360&fontSize=65&fontColor=00FF66&animation=twinkling&fontAlignY=48" width="100%" alt="Glitch Banner" />
-</p>
-
-<!-- STRONG GLITCH SUBTITLE TYPING -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=800&color=00FF66&background=00000000&center=true&vcenter=true&width=700&lines=%3E%5B!%5D+SYSTEM_OVERRIDE_ACTIVE;0101010101010101010101010101;%3E_FULL_STACK_ARCHITECT_%26_DEV;SYSTEM_STATUS%3A_ROOT_ACCESS_GRANTED" alt="Glitch Subtitle" />
+<!-- NATIVE HIGH-GLITCH NEON HEADER -->
+<h1 align="center">
+  <a href="https://github.com/webbiestech360">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&pause=500&color=00FF66&background=00000000&center=true&vcenter=true&width=900&height=120&lines=%E2%9A%A0%EF%B8%8F_SYSTEM_OVERRIDE_%E2%9A%A0%EF%B8%8F;%5B!%5D_WEBBIESTECH360_%5B!%5D;010101010101010101010101;%3E_ROOT_ACCESS_GRANTED" alt="Glitch Banner" />
   </a>
-</div>
+</h1>
 
-<br>
+<!-- MATRIX GLITCH RAIN BANNER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="180px" style="object-fit: cover; border-radius: 6px;" alt="Matrix Glitch Animation" />
+</p>
 
 <div align="center">
 
