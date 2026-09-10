@@ -2,34 +2,32 @@ name: Random Activity Generator
 
 on:
   schedule:
-    # Din mein har 3 ghante baad trigger hoga
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"   # Har 3 ghante baad run hoga
   workflow_dispatch:          # Manual run button
 
 jobs:
   auto-commit:
     permissions:
-      contents: write
+      contents: write        # Explicit write permission
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Random Multiple Commits
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          # Randomly 1 se 8 commits select honge har run mein
           NUM_COMMITS=$(( ( RANDOM % 8 ) + 1 ))
-          echo "Generating $NUM_COMMITS random commits..."
+          echo "Generating $NUM_COMMITS commits..."
 
           for i in $(seq 1 $NUM_COMMITS); do
-            echo "Matrix Sync: $(date) - Loop $i" >> activity.log
+            echo "Matrix Activity: $(date) - Loop $i" >> activity.log
             git add activity.log
-            git commit -m "chore(matrix): auto sync log $i [skip ci]" || true
-            sleep 2
+            git commit -m "chore(matrix): sync log $i" || true
+            sleep 1
           done
 
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
