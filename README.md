@@ -38,6 +38,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/webbiestech360/webbiestech360/output/github-contribution-grid-snake.svg" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webbiestech360/webbiestech360/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webbiestech360/webbiestech360/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/webbiestech360/webbiestech360/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
 
 </div>
