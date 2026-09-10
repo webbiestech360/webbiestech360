@@ -1,37 +1,50 @@
-<!-- FAST LOADING MATRIX CODE RAIN ANIMATED GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="220px" style="object-fit: cover;" alt="Matrix Rain" />
-</p>
+<!-- HACKER ASCII ART BANNER -->
+<pre align="center">
+<font color="#00FF66">
+ ██╗███╗   ██╗███████╗███████╗██████╗ ████████╗██╗ ██████╗███████╗
+ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║██╔════╝██╔════╝
+ ██║██╔██╗ ██║█████╗  █████╗  ██████╔╝   ██║   ██║██║     ███████╗
+ ██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗   ██║   ██║██║     ╚════██║
+ ██║██║ ╚████║██║     ███████╗██║  ██║   ██║   ██║╚██████╗███████║
+ ╚═╝╚═╝  ╚═══╝╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝╚══════╝
+</font>
+</pre>
 
-<!-- NEON MATRIX HEADING -->
+<!-- GLITCH HACKER HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&pause=1000&color=00FF66&center=true&vcenter=true&width=700&lines=%3CWEBBIES+TECH+360+%2F%3E;0101010101010101010101;SYSTEM_OVERRIDE%3A+ONLINE" alt="Typing Header" />
+  <code><b>[!] SYSTEM_OVERRIDE // WEBBIES_TECH_360</b></code>
 </h1>
 
-<!-- TYPING SUBTITLE -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=600&lines=⚡+Full-Stack+Architect+%26+Engineer;🛠️+Automation+%26+Bot+Developer;🚀+Building+Digital+Products" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- MATRIX GREEN BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=webbiestech360&label=SYSTEM_ACCESS_COUNT&color=00ff66&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/webbiestech360?label=NETWORK_NODES&logo=github&style=for-the-badge&color=003311&logoColor=00ff66" />
-  <img src="https://img.shields.io/badge/SECURITY_LEVEL-CLASSIFIED_0101-00ff66?style=for-the-badge&labelColor=000000" />
+  <code>01001000 01000101 01001100 01001100 01001111 00100000 01010111 01001111 01010010 01001100 01000100</code>
+</p>
+
+<!-- MATRIX HACKER GIF BANNER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2d3BhdzA5YzdwOHpnb3E1ZTljYXFiaGNsMXV4aWF4enpvcTRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A34x7Dmg4Up20/giphy.gif" width="100%" height="200px" style="object-fit: cover;" alt="Matrix Rain Animation" />
+</p>
+
+<!-- TERMINAL ACCESS STATUS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=webbiestech360&label=SYSTEM_PENETRATIONS&color=00ff66&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/webbiestech360?label=BOT_NETWORKS&logo=github&style=for-the-badge&color=003311&logoColor=00ff66" />
+  <img src="https://img.shields.io/badge/ROOT_ACCESS-GRANTED_0101-00ff66?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-### 🟢 SYSTEM_TERMINAL // ABOUT_ME
+### ☣️ TERMINAL // EXECUTE_PROFILE
 
-```gcode
-> root@webbiestech360:~# cat profile.json
-{
-  "Developer": "Pasha",
-  "Role": "Full-Stack Engineer & Automation Specialist",
-  "Base": "WebbiesTech360",
-  "Specialization": ["Bot Development", "React/Next.js", "Node.js", "System Architecture"],
-  "Status": "Executing Code..."
-}
+```bash
+root@webbiestech360:~# ./init_kernel.sh --verbose
+
+[+] Bypassing security protocols... SUCCESS
+[+] Injecting developer identity...
+--------------------------------------------------
+USER         : Pasha [Founder @ WebbiesTech360]
+CORE_ROLE    : Full-Stack Architect & Automation Bot Specialist
+WEAPONS      : React, Next.js, Node.js, TypeScript, Python
+TARGET       : High-Scalability Systems & Custom Automation
+STATUS       : [ACTIVE] Listening on port 8080...
+--------------------------------------------------
+root@webbiestech360:~# _
