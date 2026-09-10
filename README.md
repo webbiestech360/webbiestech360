@@ -91,44 +91,6 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/SECTION-TROPHIES-00FF41?style=for-the-badge&labelColor=000000)
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=webbiestech360&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" width="90%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://img.shields.io/badge/SECTION-CONTRIBUTION__ACTIVITY-00FF41?style=for-the-badge&labelColor=000000)
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=webbiestech360&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=00FF41" width="95%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://img.shields.io/badge/SECTION-CONTRIBUTION__SNAKE-00FF41?style=for-the-badge&labelColor=000000)
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/webbiestech360/webbiestech360/output/github-contribution-grid-snake.svg" width="95%" />
-
-<sub>⚠️ Snake animation ke liye ek GitHub Action workflow chahiye hota hai — setup steps neeche diye hain</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=webbiestech360&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" />
 
 <br><br>
