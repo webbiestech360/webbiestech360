@@ -10,8 +10,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,figma,nodejs,express,mongodb,postgres,supabase,graphql,redis,firebase,python,aws,vercel,docker,git,wordpress&perline=11" width="92%" alt="Tech Stack Icons" />
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-ai-studio.png" width="36" height="36" alt="Google AI Studio" title="Google AI Studio" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,figma,nodejs,express,mongodb,postgres,supabase,graphql,redis,firebase,python,aws,vercel,docker,git,wordpress,cloudflare&perline=11" width="100%" alt="Tech Stack Icons" />
 
 </div>
 
