@@ -2,7 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # Din mein har 4 ghante baad run hoga (total 6 times daily)
+    # PKT Timings: 5:00 AM, 9:00 AM, 1:00 PM, 5:00 PM, 9:00 PM, 1:00 AM (0,4,8,12,16,20 UTC)
+    - cron: "0 0,4,8,12,16,20 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,6 +14,8 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Karachi"
     steps:
       - name: Generate snake game SVG
         uses: Platane/snk@v3
